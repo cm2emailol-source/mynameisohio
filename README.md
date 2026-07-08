@@ -1,3 +1,4 @@
 # mynameisohio
 frickin frick
-[Terracraft in all its glory](terracraft.html)
+[Click here to download my HTML file](https://cm2emailol-source.com)
+
