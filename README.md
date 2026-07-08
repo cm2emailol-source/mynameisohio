@@ -1,3 +1,3 @@
 # mynameisohio
 frickin frick
-[Download/View my HTML file here](terracraft.html)
+[Terracraft in all its glory](terracraft.html)
